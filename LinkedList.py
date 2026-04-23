@@ -22,6 +22,8 @@ class LinkedList:
             current = current.next
         current.next = new_data
 
+        
+
 
         
         
@@ -43,4 +45,6 @@ current = first.head
 while current:
     print(current.data)
     current = current.next
+
+
 
