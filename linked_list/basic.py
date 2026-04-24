@@ -22,6 +22,10 @@ class LinkedList:
             current = current.next
         current.next = new_data
 
+    # def insert_at_pos(self, pos, data):
+
+    
+
         
 
 
