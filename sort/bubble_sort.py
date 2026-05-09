@@ -11,5 +11,6 @@ def bubble_sort(arr):
                 arr[i-1], arr[i] = arr[i], arr[i-1]
 
 bubble_sort(a)
+
 print(a)
 
