@@ -36,7 +36,6 @@ class LinkedList:
 
 n1 = Node(1)
 n2 = Node(2)
-
 n1.next = n2
 
 
