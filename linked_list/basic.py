@@ -39,7 +39,6 @@ n2 = Node(2)
 n1.next = n2
 
 first = LinkedList(n1)
-
 first.insert_at_beginning(12)
 
 first.insert_at_end(24)
