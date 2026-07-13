@@ -8,6 +8,8 @@
 # top_element = stack.pop() # Popping the topmost element
 # print("Popped element:", top_element)
 # class Stack:
+
+
 #     def __init__(self):
 #         self.stack = []
 
