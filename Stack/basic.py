@@ -10,7 +10,6 @@
 # print("Popped element:", top_element)
 # class Stack:
 
-
 #     def __init__(self):
 #         self.stack = []
 
