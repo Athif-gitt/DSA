@@ -1,6 +1,7 @@
 # stack = []
 # if not stack:
 #     print("stack is empty")
+
 # else:
 #     print("stack occupied")
 
