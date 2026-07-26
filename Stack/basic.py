@@ -15,7 +15,8 @@
 
 #     def is_empty(self):
 #         return len(self.stack) == 0
-    
+
+
 #     def push(self, value):
 #         self.stack.append(value)
 
