@@ -1,7 +1,6 @@
 # stack = []
 # if not stack:
 #     print("stack is empty")
-
 # else:
 #     print("stack occupied")
 # stack = [10, 20, 30] # Stack with elements
